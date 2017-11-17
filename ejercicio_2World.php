@@ -35,11 +35,8 @@
 	 		{ 
 	 			echo "\t\t<option value=".$registre["Code"].">".$registre["Name"]."</option>\n";
 
-	 		} 	
-
-
-	 	?>
- 
+	 		} 
+	 	?> 
 		<input type="submit" value="consulta ciudades"/>
  	</select>  
  </body>
